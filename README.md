@@ -332,9 +332,8 @@ Written to detect suspicious `whoami` command execution — mapped to MITRE T103
 | | |
 |---|---|
 | 📍 Location | Dubai, UAE |
-| 💼 LinkedIn | [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN-HERE) |
-| 🏆 TryHackMe | [tryhackme.com/p/YOUR-USERNAME](https://tryhackme.com/p/YOUR-USERNAME-HERE) |
-| 📧 Email | your.email@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/shailesh-puthran-1602547b](https://linkedin.com/in/shailesh-puthran-1602547b)|
+| 📧 Email | shaileshnputhran17@gmail.com |
 
 ---
 
